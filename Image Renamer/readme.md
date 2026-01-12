@@ -9,12 +9,13 @@ A simple Windows desktop application to rename images in bulk.
 - Simple GUI with folder browsing and About dialog
 
 ## How to Use
-1. Download the `.exe` from the `dist/` folder.
-2. Run the app (no installation required).
-3. Select input and output folders.
-4. Set filename prefix and starting index.
-5. Click **Rename Images**.
-6. Optionally click **About** to see author & GitHub info.
+1. Download the `.rar` from the `dist/` folder.
+2. Extract the file(s).
+3. Run the app (no installation required).
+4. Select input and output folders.
+5. Set filename prefix and starting index.
+6. Click **Rename Images**.
+7. Optionally click **About** to see author & GitHub info.
 
 ## Screenshots
 ![Demo](https://github.com/superguine/Apps_For_Windows/blob/main/Image%20Renamer/screenshots/ss.png)
