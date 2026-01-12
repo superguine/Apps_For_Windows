@@ -17,7 +17,7 @@ A simple Windows desktop application to rename images in bulk.
 6. Optionally click **About** to see author & GitHub info.
 
 ## Screenshots
-![Demo](screenshots/demo.png)
+![Demo](https://github.com/superguine/Apps_For_Windows/blob/main/Image%20Renamer/screenshots/ss.png)
 
 ## License
 © 2026 Shawon Roy. All Rights Reserved.  
