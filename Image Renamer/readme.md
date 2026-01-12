@@ -12,10 +12,17 @@ A simple Windows desktop application to rename images in bulk.
 1. Download the `.rar` from the `dist/` folder.
 2. Extract the file(s).
 3. Run the app (no installation required).
+   >⚠️ Windows SmartScreen may warn "Windows protected your PC":
+   >1. Click **More info**.
+   >2. Click **Run anyway**.
+   >✅ This only needs to be done the first time you run the app.
+
 4. Select input and output folders.
 5. Set filename prefix and starting index.
 6. Click **Rename Images**.
 7. Optionally click **About** to see author & GitHub info.
+   
+
 
 ## Screenshots
 ![Demo](https://github.com/superguine/Apps_For_Windows/blob/main/Image%20Renamer/screenshots/ss.png)
