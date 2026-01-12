@@ -1,6 +1,6 @@
 # Apps For Windows 🪟
 
-A collection of **pre-built Windows desktop applications** developed for everyday
+A collection of **pre-built Windows desktop applications** developed for everyday.
 productivity and utility purposes.
 
 This repository is intended **only for distribution of compiled Windows applications**.
@@ -18,13 +18,16 @@ The source code for these applications is **not publicly available**.
 This repository serves as a **central hub** for downloading and managing my Windows apps.
 
 ---
-
+# Available Apps 📱
+|Sl. No.|App Name| Description|
+|-------|--------------|------------|
+|1|[image_renamer_app](https://github.com/superguine/Apps_For_Windows/tree/main/Image%20Renamer)|Renames imgages from a folder in a batch|
+---
 
 ## ▶️ How to Use
 
 1. Open the application folder
-2. Navigate to the `dist/` directory
-3. Double-click the `.exe` file to run
+2. Double-click the `.exe` file to run
 
 No installation or Python setup is required.
 
@@ -42,20 +45,7 @@ More info → Run anyway
 This is expected behavior for independently distributed applications.
 
 ---
-
-## 📁 Repository Structure
-```
-Apps_For_Windows/
-│
-├── README.md
-├── LICENSE
-│
-├── App_Name/
-│ └── dist/
-│ └── AppName.exe
-```
 Each application includes its own documentation inside its folder.
-
 ---
 
 ## 📜 License
