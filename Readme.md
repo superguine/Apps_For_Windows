@@ -1,6 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/3eddeeaa-e615-49ee-b6fe-a04b3dddbbf7)
-
-# Apps For Windows 🪟
+![](assets/title_banner.svg)
 
 A collection of **pre-built Windows desktop applications** developed for everyday  
 productivity and utility purposes.
