@@ -1,24 +1,31 @@
-Copyright (c) 2026 Shawon Roy
-
+Copyright (c) 2026 Shawon Roy  
 All Rights Reserved.
 
 This software and all associated files (including but not limited to executable
-binaries, resources, documentation, and assets) are the exclusive property of
-Shawon Roy.
+binaries, resources, documentation, images, and assets) are the exclusive
+property of Shawon Roy.
 
 This repository is intended solely for the distribution of pre-built Windows
-applications. The source code for these applications is not publicly available.
+applications. The source code for these applications is not publicly available
+and remains confidential intellectual property of the author.
 
 PERMITTED USE:
-- You are permitted to download and run the software for personal use.
-- You may use the software as provided, without modification.
+- You are permitted to download, install, and run the software for personal
+  and educational use only.
+- You may use the software solely as provided, without modification.
 
 RESTRICTIONS:
 - You may NOT copy, modify, decompile, disassemble, reverse engineer, or attempt
-  to derive the source code of the software.
-- You may NOT redistribute, sublicense, sell, lease, or share the software or
-  any part of it without explicit written permission from the author.
-- You may NOT use the software for commercial purposes without prior authorization.
+  to derive the source code, algorithms, or internal logic of the software.
+- You may NOT redistribute, sublicense, publish, sell, lease, rent, or share
+  the software or any part of it without explicit written permission from
+  the author.
+- You may NOT use the software for commercial, organizational, or profit-making
+  purposes without prior written authorization.
+
+UPDATES:
+The author reserves the right to modify, replace, or discontinue the software
+at any time without notice.
 
 NO WARRANTY:
 The software is provided "AS IS", without warranty of any kind, express or implied,
@@ -26,9 +33,13 @@ including but not limited to the warranties of merchantability, fitness for a
 particular purpose, or non-infringement.
 
 LIMITATION OF LIABILITY:
-In no event shall the author be liable for any claim, damages, or other liability,
-whether in an action of contract, tort, or otherwise, arising from, out of, or in
-connection with the software or the use or other dealings in the software.
+In no event shall the author be liable for any claim, damages, data loss,
+system failure, or other liability arising from the use, misuse, or inability
+to use the software.
 
-By downloading or using this software, you agree to be bound by the terms of this
-license.
+By downloading, installing, or using this software, you agree to be bound by
+the terms of this license.
+
+GOVERNING TERMS:
+Any permissions outside this license must be granted in writing by
+Shawon Roy.
