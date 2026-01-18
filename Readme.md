@@ -19,20 +19,22 @@ This repository serves as a **central hub** for downloading and managing my Wind
 
 ---
 
-## 📱 Available Apps
+| Sl. No. | App               | Description                                    | Latest Version | Release Link                                                                                |
+| ------- | ----------------- | ---------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------- |
+| 1       | 🖼 **ResizePro**  | Resize entire folders of images                | v1.0           | [Release Link](https://github.com/superguine/Apps_For_Windows/releases/tag/resizerpro-v1.0) |
+| 2       | 📝 **TheRenamer** | Rename images in batch with prefix & numbering | v1.0           | [Release Link](https://github.com/superguine/Apps_For_Windows/releases/tag/therenamer-v1.0) |
 
-| Sl. No. | App Name | Description |
-|--------|----------|-------------|
-|1|[ResizePro](https://github.com/superguine/Apps_For_Windows/releases/tag/resizepro-v1.0)|Resizes images from a folder in batch |
 ---
 
 ## ▶️ How to Use
 
-1. Download the archive from the link above  
-2. Open the folder (extraction not required)  
-3. Double-click the `.exe` file to run  
+1. Download the archive from the release link above.
+2. Open the folder (extraction not required).
+3. Double-click the `.exe` file to run.
+4. If Windows asks for permission, click **"More info"** then **"Run anyway"**.
 
-No installation or Python setup is required.
+> ✅ No installation or Python setup is required.
+> ⚠️ This is normal behavior for independently distributed Windows software.
 
 ---
 
