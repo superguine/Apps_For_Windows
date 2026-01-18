@@ -18,39 +18,29 @@ The source code for these applications is **not publicly available**.
 This repository serves as a **central hub** for downloading and managing my Windows apps.
 
 ---
-📱 Available Apps
+## 📱 Available Apps
 | Sl. No. | App               | Description                                    | Latest Version | Release Link                                                                                |
 | ------- | ----------------- | ---------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------- |
-| 1       | 🖼 **ResizePro**  | Resize entire folders of images                | v1.0           | [Release Link](https://github.com/superguine/Apps_For_Windows/releases/tag/resizerpro-v1.0) |
-| 2       | 📝 **TheRenamer** | Rename images in batch with prefix & numbering | v1.0           | [Release Link](https://github.com/superguine/Apps_For_Windows/releases/tag/therenamer-v1.0) |
+| 1       |  **ResizePro**  | Resize entire folders of images                | v1.0           | [Release Link](https://github.com/superguine/Apps_For_Windows/releases/tag/resizerpro-v1.0) |
+| 2       |  **TheRenamer** | Rename images in batch with prefix & numbering | v1.0           | [Release Link](https://github.com/superguine/Apps_For_Windows/releases/tag/therenamer-v1.0) |
 
 ---
 
 ## ▶️ How to Use
 
 1. Download the archive from the release link above.
-2. Open the folder (extraction not required).
-3. Double-click the `.exe` file to run.
-4. If Windows asks for permission, click **"More info"** then **"Run anyway"**.
+2. Extract the folder (you can skip, but recommended).
+3. Open the folder.
+4. Double-click the `.exe` file to run.
+5. If Windows Defender or SmartScreen shows warning, click **"More info"** then **"Run anyway"**.
 
-> ✅ No installation or Python setup is required.
-> ⚠️ This is normal behavior for independently distributed Windows software.
+>  ✅ No installation or Python setup is required.
 
----
-
-## ⚠️ Windows Security Notice
-
-These applications are **not digitally signed**.  
+>  ⚠️These applications are **not digitally signed**.  
 Windows Defender or SmartScreen may show a warning.
-
-To run the app:
-
-> **More info → Run anyway**
-
-This is normal behavior for independently distributed software.
+This is normal behavior for independently distributed Windows software.
 
 ---
-
 ## 📜 License
 
 All applications in this repository are **proprietary software**.
