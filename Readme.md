@@ -1,9 +1,7 @@
-![aishot-1341](https://github.com/user-attachments/assets/8ba58f10-38a4-45a8-ab0a-c52d58f0a1c5)
+<img width="3840" height="1080" alt="aishot-1341" src="https://github.com/user-attachments/assets/acc182fd-735c-42fe-8111-5b51f3e792ee" />
 
-# Apps For Windows 🪟
 
-A collection of **pre-built Windows desktop applications** developed for everyday  
-productivity and utility purposes.
+A collection of **pre-built Windows desktop applications** developed for everyday productivity and utility purposes.
 
 This repository is intended **only for the distribution of compiled Windows applications**.  
 The source code for these applications is **not publicly available**.
