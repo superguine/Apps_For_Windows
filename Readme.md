@@ -23,8 +23,7 @@ This repository serves as a **central hub** for downloading and managing my Wind
 
 | Sl. No. | App Name | Description |
 |--------|----------|-------------|
-| 1 | [Image Renamer](https://github.com/superguine/Apps_For_Windows/tree/main/Image%20Renamer) | Renames images from a folder in batch|
-|2|[ResizePro](https://github.com/superguine/Apps_For_Windows/releases/tag/resizepro-v1.0)|Resizes images from a folder in batch |
+|1|[ResizePro](https://github.com/superguine/Apps_For_Windows/releases/tag/resizepro-v1.0)|Resizes images from a folder in batch |
 ---
 
 ## ▶️ How to Use
